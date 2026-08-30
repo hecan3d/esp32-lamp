@@ -1,4 +1,4 @@
-##💡 ESP32 Smart Web Lamp
+## 💡 ESP32 Smart Web Lamp
 
 A lightweight, self-hosted web-controlled lighting system built for the ESP32 platform. This project turns traditional desk lamps, LED strips, or custom light fixtures into smart home devices using hardware-accelerated PWM dimming and a responsive embedded HTTP control panel.
 
